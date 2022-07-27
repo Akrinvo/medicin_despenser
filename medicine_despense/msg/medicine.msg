@@ -1,1 +1,0 @@
-string[] medicine_list
